@@ -1,0 +1,6 @@
+transformers
+torch
+gradio
+peft  # if using LoRA
+
+sentencepiece # <--- ADD THIS LINE
